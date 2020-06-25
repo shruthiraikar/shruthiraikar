@@ -1,0 +1,52 @@
+body {
+    background-color:white;
+
+
+}
+h1 {
+color : rgba(207, 55, 126, 0.986);
+font-style: normal;
+font-family: 'Sacramento', cursive;
+text-align: center;
+font-size: 2.5cm;
+background:black ;
+display: block;
+line-height: 3.5cm;
+font-weight: lighter;
+margin-top: -0.3cm;
+}
+
+nav  {
+    margin-top: -2cm;
+    font-size: 0.7cm;
+    font-family: monospace;
+    text-align: right;
+    background: black;
+    color: white;
+    
+    }
+    
+    
+    .food{
+        float: left;
+        width:33.33%;
+        
+    }
+    .toy{
+        float: left;
+        width:33.33%;
+    }
+    .acc{
+        float: left;
+        width:27%;  
+    }
+    h2{
+        
+            text-align: center; 
+            background: rgb(60, 7, 65);
+            color: cornsilk;
+            font-family: 'Amatic SC', cursive;
+            font-weight: bold;
+            letter-spacing: 0.5mm;
+    }
+    
